@@ -65,11 +65,11 @@
 
 <img align="left" alt="Levi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leviooidev&show_icons=true&hide_border=true" />
 
-[website]: https://leviooidev.xyz
+[website]: https://www.levidev.xyz/
 <!-- [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://www.instagram.com/gl_ooi94/
-[linkedin]: https://www.linkedin.com/in/guanlee-ooi
+[linkedin]: https://www.linkedin.com/in/guanlee-ooi/
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
