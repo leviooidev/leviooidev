@@ -1,7 +1,7 @@
 ### Hi there, I'm Levi - aka [leviooidev][website] 👋
 
 ## I'm a Full Stack Developer!
-- 🔭 I’m currently working on a Golang!
+- 🔭 I’m currently working on Golang!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Master Go, MongoDB, React, Nginx Stack
