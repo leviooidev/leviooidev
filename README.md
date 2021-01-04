@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on Golang!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Master Go, MongoDB, React, Nginx Stack
+- 🥅 2020 Goals Achieved: Master Go, React, Nginx Stack, CI/CD Pipeline
+- 🥅 2021 Goals: Kubernetes
 - ⚡ Fun fact: I love to play basketball and Monster Hunter!
 
 ### Connect with me:
