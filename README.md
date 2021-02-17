@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals Achieved: Master Go, React, Nginx Stack, CI/CD Pipeline
-- 🥅 2021 Goals: Kubernetes
+- 🥅 2021 Goals: Kubernetes, PWA, Startup
 - ⚡ Fun fact: I love to play basketball and Monster Hunter!
 
 ### Connect with me:
